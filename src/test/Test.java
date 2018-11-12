@@ -6,6 +6,7 @@ public class Test {
 		
 		System.out.println("This is a test GitHub Project.");
 		System.out.println("Branch 1");
+		System.out.println("Branch 1-2");
 
 	}
 
